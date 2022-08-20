@@ -25,22 +25,22 @@ To set this device up in Edge Impulse, you will need to install the following so
 1- Edge Impulse CLI
 2- Arduino CLI
 
-Once you are connected to the development board downlaod the zip file after deployment
 
 https://studio.edgeimpulse.com/studio/128033/deployment
+
+# Serial connection
 
 Open Arduino IDE
 
 Sketch-> Include Libraray -> Add Zip file
-Then Goto
-
+Then, goto
 File-> Examples -> "Your_project_name -> nano_ble33_ense_microphone
 Do some chnages arduino code is given in above fies
 
 # Burn the Code
 
-Upload the cod eon your kit select your serial port
-After uploading Opnn python code set the respective port no and run the task now you can see your project working!
+Upload the code on your kit select your serial port
+After uploading open python code set the respective port no and run the task now you can see your project working!
 
 
 
