@@ -23,6 +23,7 @@ https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-mcu
 To set this device up in Edge Impulse, you will need to install the following software:
 
 1- Edge Impulse CLI
+
 2- Arduino CLI
 
 
