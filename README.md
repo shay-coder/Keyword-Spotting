@@ -1,4 +1,4 @@
-# TinyMLKit Project—Building a Voice Command CONTROL of Screen using Keyword Spotting
+# TinyMLKit Project—Building a Voice Command control of Screen using Keyword Spotting
 
 Edge Impulse gives programmers the tools they need to build the next wave of embedded machine learning solutions for intelligent devices.
 See here for instructions how to burn code of keyword spotting to distinguish auditory events, particularly your speech, even when there is background chatter or other noise.  Arduino Nano 33 BLE Sense is a tiny development board with a Cortex-M4 microcontroller,
@@ -17,6 +17,7 @@ Tools
 # Connecting to Edge Impulse
 
 here is link of video hpw to connect edge impulse with your device
+
 https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-mcu-targets/arduino-nano-33-ble-sense#connecting-to-edge-impulse
 
 To set this device up in Edge Impulse, you will need to install the following software:
@@ -24,6 +25,19 @@ To set this device up in Edge Impulse, you will need to install the following so
 1- Edge Impulse CLI
 2- Arduino CLI
 
-Once you are connected to the development board
+Once you are connected to the development board downlaod the zip file after deployment
+
+https://studio.edgeimpulse.com/studio/128033/deployment
+
+Open Arduino IDE
+
+Sketch-> Include Libraray -> Add Zip file
+Then Goto
+
+File-> Examples -> "Your_project_name -> nano_ble33_ense_microphone
+Do some chnages arduino code is given in above fies
+
+
+
 
 
