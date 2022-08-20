@@ -37,6 +37,11 @@ Then Goto
 File-> Examples -> "Your_project_name -> nano_ble33_ense_microphone
 Do some chnages arduino code is given in above fies
 
+# Burn the Code
+
+Upload the cod eon your kit select your serial port
+After uploading Opnn python code set the respective port no and run the task now you can see your project working!
+
 
 
 
