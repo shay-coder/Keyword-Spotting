@@ -35,7 +35,10 @@ Open Arduino IDE
 Sketch-> Include Libraray -> Add Zip file
 Then, goto
 File-> Examples -> "Your_project_name -> nano_ble33_ense_microphone
+
 Do some chnages arduino code is given in above fies
+
+Use screen or Serial monitor in Arduino IDE to set up a serial connection over USB.
 
 # Burn the Code
 
