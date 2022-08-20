@@ -9,6 +9,7 @@ Hardware
     Arduino ble 33 based development boards,Tiny MLKit 
 
 Tools
+
      Edge Impulse
      Arduino IDE
      Jupyter Notebook
@@ -21,7 +22,7 @@ https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-mcu
 To set this device up in Edge Impulse, you will need to install the following software:
 
 1- Edge Impulse CLI
-2-Arduino CLI
+2- Arduino CLI
 
 Once you are connected to the development board
 
